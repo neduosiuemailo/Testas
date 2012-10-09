@@ -5,7 +5,6 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    cout << "Blablabla";
-    system("PAUSE");
-    return EXIT_SUCCESS;
+    cout << "Blablabla" << endl;
+        return EXIT_SUCCESS;
 }
